@@ -126,3 +126,5 @@ This project focuses on two key technologies: **Nginx** for efficient web servin
 *If you don't have a domain name, you can access your site via the server's IP address. This is already set up with the current Nginx configuration.*
 
 **END!**
+
+Inspired by this https://roadmap.sh/projects/static-site-server site.
